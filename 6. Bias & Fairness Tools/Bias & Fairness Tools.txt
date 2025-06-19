@@ -1,0 +1,13 @@
+6. Bias & Fairness Tools
+
+Visit Aequitas Bias Audit Tool.
+Choose a bias metric (e.g., false negative rate parity) and describe:
+•	What the metric measures
+•	Why it's important
+•	How a model might fail this metric
+Optional: Try applying the tool to any small dataset or use demo data.
+
+False Discovery Rate Parity: This metric measures the difference in the false discovery rate for each class. 
+False Discovery Rate Parity is important to ensure that your model accuracy is consistent between groups. 
+A model fails this metric if one or more groups are falsely predicted by the model much more than other groups. 
+Additionally a threshold is defined to determine how different you want to allow these Discovery Rates to be.

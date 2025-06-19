@@ -1,0 +1,14 @@
+5. Legal and Ethical Implications of GenAI
+
+Discuss the legal and ethical concerns of AI-generated content based on the examples of:
+
+•	Memorizing private data (e.g., names in GPT-2)
+•	Generating copyrighted material (e.g., Harry Potter text)
+Do you believe generative AI models should be restricted from certain data during training? Justify your answer.
+
+
+There is a lot of value in allowing models to train on published books such as Harry Potter due to the fact 
+that it is essentially already filtered and verified data however there needs to be reparations to the owners 
+of these books. Owners should be paid for their compliance in being used to train AI models.
+As for private data there definitely should be restrictions on what can be used. Most notably using people’s 
+medical records can become harmful if shared with the public since malicious parties can access this information.

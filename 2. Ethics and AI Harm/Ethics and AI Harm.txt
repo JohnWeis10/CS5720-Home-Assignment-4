@@ -1,0 +1,15 @@
+2. Ethics and AI Harm
+
+Choose one of the following real-world AI harms discussed in Chapter 12:
+•	Representational harm
+•	Allocational harm
+•	Misinformation in generative AI
+Describe a real or hypothetical application where this harm may occur. 
+Then, suggest two harm mitigation strategies that could reduce its impact based on the lecture.
+
+
+Representational harm is a major issue in the current environment of AI. There are many cases of bias forming 
+toward under-represented groups due to the nature of AI training and the fact that they are trained on mostly 
+un-filtered chat data. Some solutions include manually vetting data that is used to train AI models. Another 
+mitigation strategy would be to plan for these issues and develop bias resistant model structure before training 
+in order to make it easier to detect issues and change models before it gets out of hand.
